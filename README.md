@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KGARCIAAA
 - 👀 I’m interested in learning code and enhancing my coding skills in Java, Python, & SQL
-- 🌱 I’m currently learning JAVA, Python, & SQL
+- 🌱 I’m currently learning Java, Python, & SQL
 - 💞️ I’m looking to collaborate on any fun projects. 
 - 📫 How to reach me via DM. 
 
